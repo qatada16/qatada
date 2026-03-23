@@ -662,15 +662,11 @@
   }
 
   .resume-download-btn {
-    padding: 14px;
-    width: 48px;
-    height: 48px;
+    padding: 12px;
+    width: 42px;
+    height: 42px;
     justify-content: center;
     border-radius: 50%;
-  }
-
-  .resume-download-btn svg {
-    font-size: 20px;
   }
 
   .resume-title-info h1 {
