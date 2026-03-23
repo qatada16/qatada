@@ -61,10 +61,15 @@
   transition: 0.5s;
   transform-origin: left bottom;
   transform: translateX(100%) rotateZ(-90deg);
+  background: none;
+  border: none;
+  font-family: inherit;
+  padding: 0;
 }
 .resume-button:hover {
   color: #fff;
 }
+button.resume-button span,
 div.resume-button span {
   color: #fff;
   font-size: 17px;
@@ -96,6 +101,7 @@ div.resume-button span {
     font-size: 20px;
     line-height: 20px;
   }
+  button.resume-button span,
   div.resume-button span {
     font-size: 23px;
     margin-top: -1.5px;

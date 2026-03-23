@@ -9,6 +9,24 @@
   -webkit-transform: translateZ(0);
   transform: translateZ(0);
 }
+
+/* Resume Loading State */
+.resume-loading {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: var(--backgroundColor);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--accentColor);
+  font-size: 18px;
+  letter-spacing: 2px;
+  z-index: 9999;
+}
+
 @media only screen and (max-width: 1600px) {
   .section-container {
     width: 1200px;
