@@ -1,74 +1,45 @@
-# My Portfolio Website - Overview 🚀
+# Qatada's 3D Portfolio
 
-This repository contains the open source version of my 3D portfolio website. Do check it out!
+**Live Demo:** [https://qatads.vercel.app/](https://qatads.vercel.app/)
 
-## Instructions 🛠️
+A modern 3D portfolio website showcasing my work as a Full Stack Developer & PHP Module Developer.
 
-I have modified the GSAP club plugins with the trial plugins, but with the trial plugin, you cannot host it⛔️. For Club plugins, check out here: [GSAP Installation](https://gsap.com/docs/v3/Installation/).
+## Tech Stack
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, CSS, JavaScript
+React, TypeScript, GSAP, Three.js, WebGL, HTML, CSS
 
-### Installation
+## Features
 
-1. Clone the repository to your local machine:
+- 3D interactive UI built with Three.js and WebGL
+- Smooth animations using GSAP
+- Interactive Resume page with PDF download
+- Responsive design for all screen sizes
+
+## Installation
+
+1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/qatada16/qatada.git
+   cd qatada
    ```
 
-2. Install the required packages:
+2. Install dependencies:
 
    ```bash
    npm install
    ```
 
-3. Install React:
-
-   ```bash
-   npm i react
-   ```
-
-4. Install GSAP for React:
-
-   You can choose to install GSAP specifically for React or the general GSAP package:
-
-   For React:
-   ```bash
-   npm i gsap/react
-   ```
-
-   Or the general GSAP package:
-   ```bash
-   npm i gsap
-   ```
-
-5. Run the development server:
+3. Run the development server:
 
    ```bash
    npm run dev
    ```
 
-Open your browser and navigate to `http://localhost:3000` to view the website.
-
-## Features
-
-- 3D interactive UI built with ThreeJS and WebGL
-- Smooth animations using GSAP
-- Responsive design for various screen sizes
+Open your browser and navigate to `http://localhost:5173` to view the website.
 
 ## Contributing
 
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+Contributions are welcome! Feel free to open issues or submit pull requests.
  
 
