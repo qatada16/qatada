@@ -1,0 +1,280 @@
+{
+  "personal": {
+    "name": "Qatada",
+    "displayName": "Qatada",
+    "title": "PHP & Module Developer · Full Stack Engineer · CS Student",
+    "taglines": [
+      "Building products that ship.",
+      "From university benches to production servers.",
+      "Code. Ship. Repeat."
+    ],
+    "email": "pivotone106@gmail.com",
+    "location": "Lahore, Pakistan",
+    "avatar": "/assets/profile.jpg",
+    "bio": "I'm a 6th-semester Computer Science student at FAST-NUCES Lahore, currently working part-time as a PHP & Module Developer at WHMPRESS. I've been writing code since my first semester and haven't stopped — from terminal-based C++ games to AI-powered chat platforms with WhatsApp agent integration. I care deeply about clean architecture, great UX, and shipping things that actually work.",
+    "shortBio": "CS student at FAST-NUCES · PHP Dev at WHMPRESS · Ex-intern & freelancer. I build full-stack products — fast.",
+    "availableForWork": true,
+    "workStatus": "Part-time at WHMPRESS · Open to freelance"
+  },
+
+  "social": {
+    "github": "https://github.com/qatada",
+    "linkedin": "https://linkedin.com/in/qatada",
+    "upwork": "https://www.upwork.com/freelancers/qatada",
+    "email": "pivotone106@gmail.com"
+  },
+
+  "education": [
+    {
+      "id": "fast-nuces",
+      "institution": "FAST-NUCES Lahore",
+      "fullName": "National University of Computer and Emerging Sciences",
+      "degree": "Bachelor of Science in Computer Science",
+      "shortDegree": "BS Computer Science",
+      "period": "2023 – 2027",
+      "startYear": 2023,
+      "endYear": 2027,
+      "currentSemester": "6th Semester",
+      "status": "In Progress",
+      "logo": "/assets/logos/fast.png",
+      "highlights": [
+        "Relevant coursework: AI, Computer Architecture, Data Structures, OOP, Databases, Networks, OS",
+        "Built 5+ full-stack academic projects across semesters",
+        "Active member of the developer community on campus",
+        "Maintained part-time work alongside full academic load from Semester 5"
+      ]
+    },
+    {
+      "id": "pakturk",
+      "institution": "PAKTURK MAARIF International Schools",
+      "degree": "A-Levels",
+      "period": "2021 – 2023",
+      "startYear": 2021,
+      "endYear": 2023,
+      "status": "Completed",
+      "logo": "/assets/logos/pakturk.png",
+      "highlights": [
+        "Completed A-Levels with focus on Mathematics, Physics, and Computer Science",
+        "Developed early interest in programming and software systems"
+      ]
+    }
+  ],
+
+  "socials": {
+    "github": "https://github.com/qatada16",
+    "linkedin": "www.linkedin.com/in/muhammad-qatada-738bb3362"
+  },
+
+  "experience": [
+    {
+      "id": "whmpress",
+      "company": "WHMPRESS",
+      "companyUrl": null,
+      "role": "PHP & Module Developer",
+      "type": "Part-time",
+      "period": "Feb 2026 – Present",
+      "startDate": "2026-02",
+      "endDate": null,
+      "current": true,
+      "location": "Lahore, Pakistan (On-site)",
+      "logo": "/assets/logos/whmpress.png",
+      "description": "Working part-time as a PHP and module developer while completing my degree. Developing and maintaining WHMCS addon modules and integrations, including billing automation, promo tracking, and URL management systems.",
+      "responsibilities": [
+        "Developing custom WHMCS addon modules from scratch using PHP",
+        "Building WHMPress Promo & URL Tracking module with full CRUD admin panel",
+        "Writing maintainable, modular PHP following WHMCS hook/API patterns",
+        "Collaborating with product team to scope and spec new module features",
+        "Testing and debugging production-level module integrations"
+      ],
+      "tech": ["PHP", "WHMCS", "MySQL", "HTML", "CSS", "JavaScript", "cPanel"]
+    },
+    {
+      "id": "fruit-of-sustainability",
+      "company": "Fruit of Sustainability",
+      "companyUrl": "https://fruitofsustainability.com/",
+      "role": "Full Stack Developer",
+      "type": "Internship",
+      "period": "Jun 2025 – Aug 2025",
+      "startDate": "2025-06",
+      "endDate": "2025-08",
+      "current": false,
+      "location": "Remote",
+      "logo": "/assets/logos/fos.png",
+      "description": "Summer internship building internal tools and dashboards. Worked across the full stack — from Python/FastAPI backends to React frontends — with AI integrations using the OpenAI API.",
+      "responsibilities": [
+        "Built a Report Automation system that reduced manual reporting time by 80%",
+        "Developed Work Progress Dashboards for real-time project tracking",
+        "Created an Office Inventory Management system with role-based access",
+        "Integrated OpenAI API for intelligent data extraction and summarisation",
+        "Deployed and managed services using Node.js and FastAPI backends"
+      ],
+      "tech": ["React", "Next.js", "Tailwind CSS", "Node.js", "FastAPI", "Python", "OpenAI API", "PostgreSQL"]
+    },
+    {
+      "id": "upwork-freelance",
+      "company": "Upwork",
+      "companyUrl": "https://www.upwork.com",
+      "role": "Freelance Full Stack Developer",
+      "type": "Freelance",
+      "period": "Sep 2025 – Jan 2026",
+      "startDate": "2025-09",
+      "endDate": "2026-01",
+      "current": false,
+      "location": "Remote",
+      "logo": "/assets/logos/upwork.png",
+      "description": "Took on freelance contracts during Semester 5 alongside university coursework. Delivered web development projects for international clients on the Upwork platform.",
+      "responsibilities": [
+        "Delivered full-stack web applications for international clients",
+        "Built custom React components and responsive layouts",
+        "Integrated third-party APIs and backend services",
+        "Maintained client communication and met strict delivery deadlines",
+        "Managed multiple simultaneous contracts alongside university coursework"
+      ],
+      "tech": ["React", "Next.js", "Node.js", "Tailwind CSS", "TypeScript", "REST APIs"]
+    }
+  ],
+
+  "projects": [
+    {
+      "id": "neurachat",
+      "name": "NeuraChat",
+      "tagline": "AI-powered chat platform with WhatsApp agent integration",
+      "description": "A full-featured AI chat platform built in Semester 5. Features real-time messaging, LangChain-powered AI agents, and a WhatsApp integration that allows the AI to send and receive messages autonomously via a connected WhatsApp account.",
+      "semester": "Semester 5",
+      "year": 2025,
+      "status": "Live",
+      "liveUrl": "https://neura-chat-h7nj.vercel.app/",
+      "githubUrl": null,
+      "featured": true,
+      "image": "/assets/projects/neurachat.png",
+      "tech": ["Next.js", "NestJS", "LangChain", "Socket.io", "TypeScript", "Tailwind CSS", "OpenAI API", "Whatsapp-web.js"],
+      "highlights": [
+        "Real-time chat with WebSocket (Socket.io) architecture",
+        "LangChain agent with tool-calling for WhatsApp automation",
+        "Multi-session support with persistent chat history",
+        "Deployed on Vercel with NestJS backend"
+      ],
+      "category": "AI / Full Stack"
+    },
+    {
+      "id": "skillink",
+      "name": "SkilLink",
+      "tagline": "Freelance marketplace — Upwork clone",
+      "description": "A fully functional freelance marketplace built in Semester 4. Features user authentication, project listings, bidding system, real-time chat, and a client/freelancer dashboard — modelled closely after Upwork.",
+      "semester": "Semester 4",
+      "year": 2024,
+      "status": "Academic",
+      "liveUrl": null,
+      "githubUrl": null,
+      "featured": true,
+      "image": "/assets/projects/skillink.png",
+      "tech": ["React", "Node.js", "Express.js", "Tailwind CSS", "MongoDB", "JWT", "Socket.io"],
+      "highlights": [
+        "Role-based auth: client vs freelancer dashboards",
+        "Project posting, bidding, and contract management",
+        "Real-time messaging between clients and freelancers",
+        "Full CRUD with REST API backend"
+      ],
+      "category": "Full Stack"
+    },
+    {
+      "id": "flappy-bird",
+      "name": "Flappy Bird (Assembly)",
+      "tagline": "Classic arcade game in x86 Assembly (COAL)",
+      "description": "A fully playable Flappy Bird clone written in x86 Assembly language (COAL) in Semester 3. Rendered using DOS video memory with collision detection and score tracking — all in assembly.",
+      "semester": "Semester 3",
+      "year": 2024,
+      "status": "Academic",
+      "liveUrl": null,
+      "githubUrl": null,
+      "featured": false,
+      "image": "/assets/projects/flappy.png",
+      "tech": ["x86 Assembly", "COAL", "DOS Interrupts", "BIOS Video Mode"],
+      "highlights": [
+        "Direct video memory manipulation for rendering",
+        "Collision detection in pure assembly",
+        "Score tracking and game loop in assembly",
+        "Runs in DOSBox emulator"
+      ],
+      "category": "Systems / Low-Level"
+    },
+    {
+      "id": "tetris",
+      "name": "Tetris",
+      "tagline": "Terminal Tetris in C++ — Semester 1",
+      "description": "The classic Tetris game built in C++ during Semester 1 as a first major project. Runs in the terminal with real-time input handling, piece rotation, line clearing, and score tracking.",
+      "semester": "Semester 1",
+      "year": 2023,
+      "status": "Academic",
+      "liveUrl": null,
+      "githubUrl": null,
+      "featured": false,
+      "image": "/assets/projects/tetris.png",
+      "tech": ["C++", "OOP", "Terminal I/O", "Windows Console API"],
+      "highlights": [
+        "Real-time keyboard input without blocking",
+        "All 7 Tetromino shapes with rotation logic",
+        "Score system and increasing difficulty",
+        "Written from scratch, no game libraries"
+      ],
+      "category": "Systems / C++"
+    }
+  ],
+
+  "skills": {
+    "languages": [
+      { "name": "TypeScript", "level": 90 },
+      { "name": "JavaScript", "level": 92 },
+      { "name": "PHP", "level": 80 },
+      { "name": "Python", "level": 75 },
+      { "name": "C++", "level": 70 },
+      { "name": "SQL", "level": 72 },
+      { "name": "x86 Assembly", "level": 45 }
+    ],
+    "frontend": [
+      { "name": "React", "level": 90 },
+      { "name": "Next.js", "level": 85 },
+      { "name": "Tailwind CSS", "level": 92 },
+      { "name": "HTML & CSS", "level": 95 },
+      { "name": "Framer Motion", "level": 70 }
+    ],
+    "backend": [
+      { "name": "Node.js", "level": 85 },
+      { "name": "NestJS", "level": 75 },
+      { "name": "Express.js", "level": 82 },
+      { "name": "FastAPI", "level": 68 },
+      { "name": "WHMCS API", "level": 78 }
+    ],
+    "databases": [
+      { "name": "MongoDB", "level": 78 },
+      { "name": "PostgreSQL", "level": 68 },
+      { "name": "MySQL", "level": 75 }
+    ],
+    "tools": [
+      { "name": "Git & GitHub", "level": 88 },
+      { "name": "Docker", "level": 55 },
+      { "name": "Vercel", "level": 82 },
+      { "name": "Postman", "level": 85 },
+      { "name": "VS Code", "level": 95 },
+      { "name": "Linux CLI", "level": 70 }
+    ],
+    "aiml": [
+      { "name": "LangChain", "level": 72 },
+      { "name": "OpenAI API", "level": 80 },
+      { "name": "Prompt Engineering", "level": 78 }
+    ]
+  },
+
+  "stats": {
+    "semestersCompleted": 5,
+    "projectsBuilt": 8,
+    "technologiesUsed": 20,
+    "monthsOfProfessionalExperience": 5,
+    "freelanceProjects": 4
+  },
+
+  "resume": {
+    "downloadFilename": "Qatada_CV.pdf",
+    "lastUpdated": "March 2026"
+  }
+}
